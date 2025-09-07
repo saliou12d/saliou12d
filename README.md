@@ -2,13 +2,28 @@
 
 <!-- Portada -->
 <p align="center">
-  <img src="URL_DE_TU_PORTADA" alt="Zenthra.Core_Security" width="100%">
+  <img src="assets/zenthra_resized_optimized.png" alt="Zenthra.Core_Security" width="100%">
 </p>
 
 <h1 align="center">👋 ¡Bienvenido a Zenthra.Core_Security!</h1>
 
 <p align="center">
   <strong>Plataforma profesional para mis proyectos de desarrollo, seguridad y automatización.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tuusuario/Zenthra.Core_Security/stargazers">
+    <img src="https://img.shields.io/github/stars/tuusuario/Zenthra.Core_Security?style=for-the-badge&logo=github&color=FFD700" alt="Stars"/>
+  </a>
+  <a href="https://github.com/tuusuario/Zenthra.Core_Security/network/members">
+    <img src="https://img.shields.io/github/forks/tuusuario/Zenthra.Core_Security?style=for-the-badge&logo=github&color=32CD32" alt="Forks"/>
+  </a>
+  <a href="https://github.com/tuusuario/Zenthra.Core_Security/issues">
+    <img src="https://img.shields.io/github/issues/tuusuario/Zenthra.Core_Security?style=for-the-badge&logo=github&color=FF4500" alt="Issues"/>
+  </a>
+  <a href="https://github.com/tuusuario/Zenthra.Core_Security/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/tuusuario/Zenthra.Core_Security?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=00CED1" alt="License"/>
+  </a>
 </p>
 
 ---
