@@ -4,11 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/saliou12d/saliou12d/main/assets/zenthra_resized_optimized.png" alt="Zenthra.Core_Security" width="100%">
 </p>
-
 <!-- Portada -->
-<p align="center">
-  <img src="assets/zenthra_resized_optimized.png" alt="Zenthra.Core_Security" width="100%">
-</p>
 
 <h1 align="center">👋 ¡Bienvenido a Zenthra.Core_Security!</h1>
 
