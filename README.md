@@ -1,5 +1,5 @@
 <!-- Banner Principal -->
-  <img src="https://raw.githubuserco<img width="1280" height="640" alt="zenthra_resized_optimized" src="https://github.com/user-attachments/assets/a9d0044b-1cc0-45d6-b074-a096d0fdacc9" />
+  <img width="1280" height="640" alt="zenthra_resized_optimized" src="https://github.com/user-attachments/assets/a9d0044b-1cc0-45d6-b074-a096d0fdacc9" />
 
 
 <h1 align="center">👋 Hola, soy Saliou Diallo (Zenthra.Core_Security)</h1>
