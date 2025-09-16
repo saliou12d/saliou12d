@@ -1,8 +1,7 @@
 <!-- Banner Principal -->
 <p align="center">
   <img src="https://raw.githubuserco<img width="1280" height="640" alt="zenthra_resized_optimized" src="https://github.com/user-attachments/assets/a9d0044b-1cc0-45d6-b074-a096d0fdacc9" />
-ntent.com/saliou12d/saliou12d/main/zenthra_resized_optimized.png" alt="Zenthra.Core_Security Banner" width="100%">
-</p>
+
 
 <h1 align="center">👋 Hola, soy Saliou Diallo (Zenthra.Core_Security)</h1>
 <h3 align="center">Desarrollador Backend Junior | Python | FastAPI | Seguridad y Correlación de Eventos</h3>
