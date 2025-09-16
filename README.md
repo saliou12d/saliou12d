@@ -24,13 +24,6 @@
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
 </p>
 
----
-
-### 📂 Proyectos Destacados
-- [**Aether Sentinel**](#) – Plataforma de seguridad avanzada y analítica de amenazas  
-- [**N.X.S. Deep Stream**](#) – Sistema de correlación de eventos y monitoreo inteligente  
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
