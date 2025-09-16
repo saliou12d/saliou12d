@@ -14,6 +14,18 @@
 - 🌱 Siempre aprendiendo nuevas tecnologías y mejores prácticas  
 
 ---
+<h1 align="center">🔐 Zenthra.Core_Security</h1>
+<h3 align="center">Seguridad Avanzada | Correlación de Eventos | Análisis Inteligente</h3>
+
+---
+
+## 📌 Descripción
+**Zenthra.Core_Security** es un proyecto enfocado en el desarrollo de una plataforma backend **segura, escalable y modular**, diseñada con **Python, FastAPI, SQLAlchemy y criptografía avanzada**.  
+
+Su objetivo principal es la **correlación de eventos** y la **analítica avanzada** para entornos de seguridad de alto nivel.
+
+---
+
 
 ### 🛠️ Tecnologías y Herramientas
 <p align="center">
