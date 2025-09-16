@@ -1,6 +1,4 @@
 <!-- Banner Principal -->
-<img width="1280" height="640" alt="Image" src="https://github.com/user-attachments/assets/05b370bd-1d67-49f3-9a83-acb046ff6fcf" />
-<p align="center">
   <img src="https://raw.githubuserco<img width="1280" height="640" alt="zenthra_resized_optimized" src="https://github.com/user-attachments/assets/a9d0044b-1cc0-45d6-b074-a096d0fdacc9" />
 
 
